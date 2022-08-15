@@ -8,7 +8,7 @@
 
 ## 关于
 
-**Webmin** 是一个基于网页的类Unix服务器系统管理工具，全球安装超过 _1,000,000_ 次（没错，事宝藏！）。有了它，运维快人一步！比如用户，磁盘配额，服务或者配置文件，比如更改，控制开源应用，再比如 BIND DNS Server，管理 Apache HTTP Server， PHP， MySQL， 还有[许多许多好东西](https://doxfer.webmin.com/Webmin/Introduction)。
+**Webmin** 是一个基于网页的类Unix服务器系统管理工具，全球安装超过 _1,000,000_ 次（没错，是宝藏！）。有了它，运维快人一步！比如用户，磁盘配额，服务或者配置文件，比如更改，控制开源应用，再比如 BIND DNS Server，管理 Apache HTTP Server， PHP， MySQL， 还有[许多许多好东西](https://doxfer.webmin.com/Webmin/Introduction)。
 
 [![Quick UI overview 2021](https://user-images.githubusercontent.com/4426533/114315375-61a1c480-9b07-11eb-9aaf-4aa949a39ab7.png)](https://www.youtube.com/watch?v=daYG6O4AsEw)
 
